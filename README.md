@@ -142,6 +142,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@jourdain](https://github.com/jourdain/)
 * [@willdunklin](https://github.com/willdunklin/)
 
